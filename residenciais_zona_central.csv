@@ -1,0 +1,791 @@
+Tipo;Bairro;Quartos;Vagas;Suites;Area;Valor;Condominio;IPTU;Valor Total;Valor Total p m2;Zona;Tipo Agregado
+Apartamento;Centro;1;0;0;15;800.0;390.0;20.0;1210.0;80.67;Centro;Apartamento
+Apartamento;Centro;1;0;0;27;750.0;371.0;19.0;1140.0;42.22;Centro;Apartamento
+Apartamento;Centro;1;1;0;37;1100.0;540.0;900.0;2540.0;68.65;Centro;Apartamento
+Apartamento;Centro;1;0;0;35;1350.0;420.0;24.0;1794.0;51.26;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;50;1000.0;600.0;0.0;1600.0;32.0;Centro;Apartamento
+Apartamento;Centro;1;0;0;42;2200.0;619.0;202.0;3021.0;71.93;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;69;1900.0;600.0;70.0;2570.0;37.25;Centro;Apartamento
+Apartamento;Glória;1;0;0;48;1400.0;480.0;20.0;1900.0;39.58;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;65;1400.0;600.0;0.0;2000.0;30.77;Centro;Apartamento
+Apartamento;Glória;1;0;0;28;1500.0;250.0;0.0;1750.0;62.5;Centro;Apartamento
+Apartamento;Saúde;2;0;0;65;1300.0;468.0;30.0;1798.0;27.66;Centro;Apartamento
+Apartamento;Centro;1;0;1;38;1150.0;400.0;25.0;1575.0;41.45;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;21;800.0;312.0;15.0;1127.0;53.67;Centro;Apartamento
+Apartamento;Centro;1;0;0;35;1000.0;300.0;0.0;1300.0;37.14;Centro;Apartamento
+Apartamento;Fátima;1;0;0;50;1100.0;558.0;20.0;1678.0;33.56;Centro;Apartamento
+Apartamento;Santa Teresa;1;1;0;49;1150.0;570.0;28.0;1748.0;35.67;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;56;1000.0;312.0;33.0;1345.0;24.02;Centro;Apartamento
+Apartamento;Glória;1;0;0;42;1500.0;400.0;24.0;1924.0;45.81;Centro;Apartamento
+Apartamento;Centro;2;0;0;75;1500.0;935.0;73.0;2508.0;33.44;Centro;Apartamento
+Apartamento;Centro;3;1;0;95;2000.0;867.0;72.0;2939.0;30.94;Centro;Apartamento
+Apartamento;Glória;1;0;0;34;1100.0;275.0;14.0;1389.0;40.85;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;73;1490.0;491.0;14.0;1995.0;27.33;Centro;Apartamento
+Apartamento;Glória;2;2;0;78;2470.0;738.0;121.0;3329.0;42.68;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;55;1900.0;575.0;0.0;2475.0;45.0;Centro;Apartamento
+Apartamento;Centro;1;1;0;38;1500.0;530.0;0.0;2030.0;53.42;Centro;Apartamento
+Apartamento;Centro;1;0;0;30;900.0;320.0;0.0;1220.0;40.67;Centro;Apartamento
+Apartamento;Centro;1;0;0;21;900.0;289.0;20.0;1209.0;57.57;Centro;Apartamento
+Apartamento;Rio Comprido;1;0;0;33;800.0;275.0;24.0;1099.0;33.3;Centro;Apartamento
+Apartamento;São Cristóvão;1;0;0;56;850.0;450.0;15.0;1315.0;23.48;Centro;Apartamento
+Apartamento;Lapa;1;0;0;99;1800.0;650.0;48.0;2498.0;25.23;Centro;Apartamento
+Apartamento;Centro;2;0;0;69;1600.0;352.0;438.0;2390.0;34.64;Centro;Apartamento
+Apartamento;Catumbi;2;1;0;46;1150.0;170.0;0.0;1320.0;28.7;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;74;1600.0;1.0;1.0;1602.0;21.65;Centro;Apartamento
+Apartamento;Centro;1;0;0;38;900.0;223.0;15.0;1138.0;29.95;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;45;740.0;180.0;25.0;945.0;21.0;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;1;48;1600.0;524.0;12.0;2136.0;44.5;Centro;Apartamento
+Apartamento;Glória;1;0;1;48;1100.0;500.0;0.0;1600.0;33.33;Centro;Apartamento
+Apartamento;Centro;3;2;1;120;2500.0;1500.0;208.0;4208.0;35.07;Centro;Apartamento
+Apartamento;Centro;1;0;0;50;1260.0;290.0;23.0;1573.0;31.46;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;55;1500.0;520.0;1.0;2021.0;36.75;Centro;Apartamento
+Apartamento;Rio Comprido;2;0;0;67;1500.0;454.0;15.0;1969.0;29.39;Centro;Apartamento
+Apartamento;Lapa;1;0;0;32;1600.0;500.0;20.0;2120.0;66.25;Centro;Apartamento
+Apartamento;Glória;2;1;0;74;2200.0;725.0;125.0;3050.0;41.22;Centro;Apartamento
+Apartamento;Centro;1;0;0;40;1000.0;510.0;21.0;1531.0;38.28;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;31;1300.0;500.0;0.0;1800.0;58.06;Centro;Apartamento
+Apartamento;Glória;1;0;0;50;1400.0;450.0;20.0;1870.0;37.4;Centro;Apartamento
+Apartamento;Centro;1;0;0;55;850.0;350.0;35.0;1235.0;22.45;Centro;Apartamento
+Apartamento;Centro;1;0;0;28;900.0;446.0;24.0;1370.0;48.93;Centro;Apartamento
+Apartamento;Santa Teresa;2;1;0;69;2000.0;711.0;0.0;2711.0;39.29;Centro;Apartamento
+Apartamento;Centro;1;0;0;35;950.0;340.0;24.0;1314.0;37.54;Centro;Apartamento
+Apartamento;Glória;2;0;0;62;1300.0;495.0;0.0;1795.0;28.95;Centro;Apartamento
+Apartamento;Rio Comprido;3;1;1;144;2499.0;100.0;125.0;2724.0;18.92;Centro;Apartamento
+Apartamento;Glória;1;0;0;50;1300.0;640.0;57.0;1997.0;39.94;Centro;Apartamento
+Apartamento;Glória;1;0;0;60;1500.0;775.0;0.0;2275.0;37.92;Centro;Apartamento
+Apartamento;Glória;1;0;0;50;950.0;570.0;67.0;1587.0;31.74;Centro;Apartamento
+Apartamento;Centro;1;1;0;42;1500.0;490.0;22.0;2012.0;47.9;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;70;1200.0;400.0;20.0;1620.0;23.14;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;46;1100.0;395.0;15.0;1510.0;32.83;Centro;Apartamento
+Apartamento;Centro;1;0;0;34;1000.0;450.0;21.0;1471.0;43.26;Centro;Apartamento
+Apartamento;Centro;1;0;0;45;1100.0;400.0;0.0;1500.0;33.33;Centro;Apartamento
+Apartamento;Cidade Nova;2;0;0;55;1200.0;400.0;13.0;1613.0;29.33;Centro;Apartamento
+Apartamento;Cidade Nova;1;0;0;37;800.0;214.0;14.0;1028.0;27.78;Centro;Apartamento
+Apartamento;Lapa;1;0;0;32;1100.0;380.0;0.0;1480.0;46.25;Centro;Apartamento
+Apartamento;Glória;2;0;0;110;1500.0;1400.0;200.0;3100.0;28.18;Centro;Apartamento
+Apartamento;Caju;1;0;1;45;850.0;230.0;0.0;1080.0;24.0;Centro;Apartamento
+Apartamento;Santa Teresa;3;0;0;83;1700.0;604.0;0.0;2304.0;27.76;Centro;Apartamento
+Apartamento;Glória;1;0;1;45;1200.0;515.0;0.0;1715.0;38.11;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;60;1300.0;700.0;15.0;2015.0;33.58;Centro;Apartamento
+Apartamento;Glória;1;0;1;40;1150.0;520.0;0.0;1670.0;41.75;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;88;1200.0;663.0;0.0;1863.0;21.17;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;50;1000.0;320.0;0.0;1320.0;26.4;Centro;Apartamento
+Apartamento;Centro;1;0;0;33;800.0;380.0;25.0;1205.0;36.52;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;71;2000.0;760.0;57.0;2817.0;39.68;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;72;1850.0;753.0;45.0;2648.0;36.78;Centro;Apartamento
+Apartamento;Centro;1;0;0;42;1090.0;345.0;24.0;1459.0;34.74;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;75;1700.0;13.0;427.0;2140.0;28.53;Centro;Apartamento
+Apartamento;Cidade Nova;3;2;0;66;2200.0;558.0;48.0;2806.0;42.52;Centro;Apartamento
+Apartamento;Glória;1;0;0;20;900.0;495.0;0.0;1395.0;69.75;Centro;Apartamento
+Apartamento;Estácio;2;1;1;84;1600.0;840.0;0.0;2440.0;29.05;Centro;Apartamento
+Apartamento;Centro;2;0;0;70;1500.0;530.0;60.0;2090.0;29.86;Centro;Apartamento
+Apartamento;Santa Teresa;3;0;0;149;2000.0;890.0;52.0;2942.0;19.74;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;56;1500.0;580.0;0.0;2080.0;37.14;Centro;Apartamento
+Apartamento;Catumbi;2;0;0;75;1200.0;460.0;0.0;1660.0;22.13;Centro;Apartamento
+Apartamento;Lapa;1;0;0;46;1597.0;600.0;65.0;2262.0;49.17;Centro;Apartamento
+Apartamento;Centro;1;1;0;51;1500.0;405.0;40.0;1945.0;38.14;Centro;Apartamento
+Apartamento;Rio Comprido;2;0;0;68;1000.0;580.0;15.0;1595.0;23.46;Centro;Apartamento
+Apartamento;Centro;1;0;1;40;950.0;350.0;24.0;1324.0;33.1;Centro;Apartamento
+Apartamento;Lapa;2;0;0;60;2400.0;700.0;0.0;3100.0;51.67;Centro;Apartamento
+Apartamento;Centro;2;0;0;68;1700.0;283.0;12.0;1995.0;29.34;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;1;65;2500.0;850.0;130.0;3480.0;53.54;Centro;Apartamento
+Apartamento;Santa Teresa;3;0;0;90;2700.0;365.0;10.0;3075.0;34.17;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;65;1000.0;420.0;12.0;1432.0;22.03;Centro;Apartamento
+Apartamento;Rio Comprido;3;1;1;79;2400.0;1095.0;0.0;3495.0;44.24;Centro;Apartamento
+Apartamento;Estácio;3;0;0;105;1900.0;677.0;0.0;2577.0;24.54;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;1;76;1600.0;700.0;25.0;2325.0;30.59;Centro;Apartamento
+Apartamento;Gamboa;2;0;0;35;850.0;90.0;0.0;940.0;26.86;Centro;Apartamento
+Apartamento;Centro;1;0;0;33;850.0;342.0;21.0;1213.0;36.76;Centro;Apartamento
+Apartamento;Centro;2;1;0;64;1800.0;373.0;61.0;2234.0;34.91;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;1;70;1600.0;500.0;0.0;2100.0;30.0;Centro;Apartamento
+Apartamento;Rio Comprido;3;1;0;90;1400.0;500.0;15.0;1915.0;21.28;Centro;Apartamento
+Apartamento;Centro;2;0;0;73;1900.0;690.0;70.0;2660.0;36.44;Centro;Apartamento
+Apartamento;Glória;2;0;0;52;1900.0;560.0;0.0;2460.0;47.31;Centro;Apartamento
+Apartamento;Lapa;2;1;0;65;2200.0;640.0;72.0;2912.0;44.8;Centro;Apartamento
+Apartamento;Glória;1;0;0;35;1300.0;217.0;136.0;1653.0;47.23;Centro;Apartamento
+Apartamento;Centro;1;0;0;46;1200.0;340.0;45.0;1585.0;34.46;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;70;1900.0;612.0;14.0;2526.0;36.09;Centro;Apartamento
+Apartamento;Centro;1;0;0;47;1400.0;400.0;20.0;1820.0;38.72;Centro;Apartamento
+Apartamento;Centro;1;0;0;40;1300.0;480.0;25.0;1805.0;45.12;Centro;Apartamento
+Apartamento;Rio Comprido;2;0;0;70;1350.0;440.0;12.0;1802.0;25.74;Centro;Apartamento
+Apartamento;Rio Comprido;3;0;0;100;1600.0;300.0;60.0;1960.0;19.6;Centro;Apartamento
+Apartamento;Santa Teresa;2;1;0;70;2200.0;800.0;20.0;3020.0;43.14;Centro;Apartamento
+Apartamento;Glória;2;0;0;70;2160.0;570.0;81.0;2811.0;40.16;Centro;Apartamento
+Apartamento;Centro;1;0;0;15;800.0;305.0;20.0;1125.0;75.0;Centro;Apartamento
+Apartamento;Lapa;1;0;0;32;1650.0;700.0;220.0;2570.0;80.31;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;55;1300.0;560.0;34.0;1894.0;34.44;Centro;Apartamento
+Apartamento;Centro;1;0;0;30;1100.0;400.0;0.0;1500.0;50.0;Centro;Apartamento
+Apartamento;Centro;1;0;0;50;1400.0;520.0;47.0;1967.0;39.34;Centro;Apartamento
+Apartamento;Centro;1;0;0;37;1200.0;393.0;24.0;1617.0;43.7;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;66;1900.0;649.0;55.0;2604.0;39.45;Centro;Apartamento
+Apartamento;Centro;2;0;0;75;1700.0;662.0;88.0;2450.0;32.67;Centro;Apartamento
+Apartamento;Catumbi;2;0;0;77;1400.0;297.0;14.0;1711.0;22.22;Centro;Apartamento
+Apartamento;São Cristóvão;4;1;1;150;2500.0;700.0;68.0;3268.0;21.79;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;1;59;1500.0;618.0;15.0;2133.0;36.15;Centro;Apartamento
+Apartamento;Centro;2;0;0;50;1000.0;450.0;50.0;1500.0;30.0;Centro;Apartamento
+Apartamento;Estácio;2;0;0;72;1100.0;425.0;13.0;1538.0;21.36;Centro;Apartamento
+Apartamento;Lapa;2;0;0;60;1500.0;538.0;500.0;2538.0;42.3;Centro;Apartamento
+Apartamento;Centro;1;0;0;36;1500.0;592.0;88.0;2180.0;60.56;Centro;Apartamento
+Apartamento;Santa Teresa;3;0;0;75;2000.0;570.0;0.0;2570.0;34.27;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;95;2000.0;230.0;0.0;2230.0;23.47;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;0;80;1500.0;438.0;125.0;2063.0;25.79;Centro;Apartamento
+Apartamento;Centro;1;0;0;40;1300.0;400.0;0.0;1700.0;42.5;Centro;Apartamento
+Apartamento;Centro;1;1;0;52;1500.0;550.0;60.0;2110.0;40.58;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;35;800.0;400.0;0.0;1200.0;34.29;Centro;Apartamento
+Apartamento;Centro;1;0;0;60;2000.0;500.0;0.0;2500.0;41.67;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;1;75;1300.0;850.0;0.0;2150.0;28.67;Centro;Apartamento
+Apartamento;Centro;2;0;0;75;2500.0;662.0;80.0;3242.0;43.23;Centro;Apartamento
+Apartamento;Estácio;2;1;1;86;1700.0;840.0;120.0;2660.0;30.93;Centro;Apartamento
+Apartamento;Rio Comprido;2;0;0;70;1500.0;240.0;13.0;1753.0;25.04;Centro;Apartamento
+Apartamento;Centro;1;0;0;56;1900.0;917.0;2004.0;4821.0;86.09;Centro;Apartamento
+Apartamento;Centro;2;0;0;90;2100.0;570.0;40.0;2710.0;30.11;Centro;Apartamento
+Apartamento;Centro;2;0;0;56;1800.0;544.0;51.0;2395.0;42.77;Centro;Apartamento
+Apartamento;Santa Teresa;3;1;0;148;2600.0;1430.0;0.0;4030.0;27.23;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;1;55;2490.0;520.0;95.0;3105.0;56.45;Centro;Apartamento
+Apartamento;Estácio;2;0;0;63;1200.0;624.0;0.0;1824.0;28.95;Centro;Apartamento
+Apartamento;Glória;1;0;0;30;1100.0;361.0;24.0;1485.0;49.5;Centro;Apartamento
+Apartamento;Centro;2;0;0;60;1500.0;500.0;130.0;2130.0;35.5;Centro;Apartamento
+Apartamento;Lapa;1;0;0;45;1500.0;500.0;180.0;2180.0;48.44;Centro;Apartamento
+Apartamento;Centro;1;0;0;40;1500.0;400.0;24.0;1924.0;48.1;Centro;Apartamento
+Apartamento;Rio Comprido;1;1;0;40;1200.0;352.0;340.0;1892.0;47.3;Centro;Apartamento
+Apartamento;Centro;1;0;0;45;2000.0;633.0;779.0;3412.0;75.82;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;0;65;1100.0;379.0;0.0;1479.0;22.75;Centro;Apartamento
+Apartamento;Santa Teresa;2;1;0;80;1500.0;738.0;230.0;2468.0;30.85;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;0;53;900.0;689.0;0.0;1589.0;29.98;Centro;Apartamento
+Apartamento;Centro;1;0;0;30;800.0;400.0;0.0;1200.0;40.0;Centro;Apartamento
+Apartamento;Centro;0;0;0;48;2000.0;349.0;0.0;2349.0;48.94;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;49;660.0;235.0;14.0;909.0;18.55;Centro;Apartamento
+Apartamento;Glória;2;0;0;112;2300.0;782.0;194.0;3276.0;29.25;Centro;Apartamento
+Apartamento;Glória;1;0;0;49;1400.0;477.0;242.0;2119.0;43.24;Centro;Apartamento
+Apartamento;Estácio;2;1;0;72;1300.0;790.0;0.0;2090.0;29.03;Centro;Apartamento
+Apartamento;Glória;3;0;0;92;2500.0;470.0;0.0;2970.0;32.28;Centro;Apartamento
+Apartamento;Centro;1;0;0;25;1000.0;321.0;24.0;1345.0;53.8;Centro;Apartamento
+Apartamento;Lapa;2;0;0;70;2000.0;430.0;0.0;2430.0;34.71;Centro;Apartamento
+Apartamento;Centro;1;1;0;42;2400.0;600.0;150.0;3150.0;75.0;Centro;Apartamento
+Apartamento;Rio Comprido;3;2;1;110;1900.0;890.0;86.0;2876.0;26.15;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;80;1800.0;627.0;0.0;2427.0;30.34;Centro;Apartamento
+Apartamento;Centro;1;0;0;20;1000.0;216.0;21.0;1237.0;61.85;Centro;Apartamento
+Apartamento;Centro;3;1;0;100;2400.0;650.0;66.0;3116.0;31.16;Centro;Apartamento
+Apartamento;Centro;1;0;0;96;2500.0;660.0;100.0;3260.0;33.96;Centro;Apartamento
+Apartamento;Centro;1;0;0;55;950.0;433.0;47.0;1430.0;26.0;Centro;Apartamento
+Apartamento;Centro;1;0;0;34;800.0;424.0;25.0;1249.0;36.74;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;53;1600.0;764.0;33.0;2397.0;45.23;Centro;Apartamento
+Apartamento;Centro;1;1;0;45;2300.0;600.0;88.0;2988.0;66.4;Centro;Apartamento
+Apartamento;Glória;1;0;0;48;1600.0;480.0;30.0;2110.0;43.96;Centro;Apartamento
+Apartamento;Centro;1;0;0;29;1300.0;336.0;20.0;1656.0;57.1;Centro;Apartamento
+Apartamento;Centro;1;0;0;55;2000.0;350.0;75.0;2425.0;44.09;Centro;Apartamento
+Apartamento;Rio Comprido;2;0;1;110;1200.0;300.0;0.0;1500.0;13.64;Centro;Apartamento
+Apartamento;Cidade Nova;2;1;0;53;1300.0;505.0;34.0;1839.0;34.7;Centro;Apartamento
+Apartamento;Lapa;1;0;0;30;1100.0;420.0;0.0;1520.0;50.67;Centro;Apartamento
+Apartamento;Centro;1;0;0;30;1000.0;394.0;20.0;1414.0;47.13;Centro;Apartamento
+Apartamento;Centro;2;0;0;80;1200.0;511.0;0.0;1711.0;21.39;Centro;Apartamento
+Apartamento;Santa Teresa;2;1;0;69;2400.0;770.0;122.0;3292.0;47.71;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;47;1350.0;495.0;32.0;1877.0;39.94;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;1;45;2090.0;520.0;95.0;2705.0;60.11;Centro;Apartamento
+Apartamento;Santa Teresa;1;1;0;40;1350.0;510.0;35.0;1895.0;47.38;Centro;Apartamento
+Apartamento;Centro;1;0;0;37;1200.0;310.0;21.0;1531.0;41.38;Centro;Apartamento
+Apartamento;Centro;0;0;0;30;800.0;447.0;25.0;1272.0;42.4;Centro;Apartamento
+Apartamento;Centro;1;0;0;43;1000.0;400.0;18.0;1418.0;32.98;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;56;1400.0;512.0;50.0;1962.0;35.04;Centro;Apartamento
+Apartamento;Centro;1;0;0;35;1350.0;460.0;0.0;1810.0;51.71;Centro;Apartamento
+Apartamento;Glória;1;0;0;42;1500.0;450.0;50.0;2000.0;47.62;Centro;Apartamento
+Apartamento;Glória;2;0;0;90;2100.0;800.0;131.0;3031.0;33.68;Centro;Apartamento
+Apartamento;Glória;1;0;0;43;1500.0;510.0;48.0;2058.0;47.86;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;50;1800.0;340.0;120.0;2260.0;45.2;Centro;Apartamento
+Apartamento;Centro;1;0;0;32;1000.0;450.0;30.0;1480.0;46.25;Centro;Apartamento
+Apartamento;Centro;1;0;0;41;800.0;384.0;17.0;1201.0;29.29;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;60;1000.0;340.0;20.0;1360.0;22.67;Centro;Apartamento
+Apartamento;Estácio;3;0;0;64;1100.0;578.0;13.0;1691.0;26.42;Centro;Apartamento
+Apartamento;Glória;2;0;0;85;2000.0;801.0;103.0;2904.0;34.16;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;0;60;1600.0;485.0;0.0;2085.0;34.75;Centro;Apartamento
+Apartamento;Centro;1;0;0;33;750.0;486.0;25.0;1261.0;38.21;Centro;Apartamento
+Apartamento;Glória;2;1;1;70;3000.0;420.0;46.0;3466.0;49.51;Centro;Apartamento
+Apartamento;Glória;1;0;0;45;1300.0;435.0;159.0;1894.0;42.09;Centro;Apartamento
+Apartamento;Glória;1;0;0;43;1000.0;503.0;15.0;1518.0;35.3;Centro;Apartamento
+Apartamento;Rio Comprido;3;0;0;75;1000.0;300.0;33.0;1333.0;17.77;Centro;Apartamento
+Apartamento;Santa Teresa;3;1;1;130;3490.0;790.0;210.0;4490.0;34.54;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;25;850.0;370.0;14.0;1234.0;49.36;Centro;Apartamento
+Apartamento;Glória;1;0;0;42;1500.0;440.0;24.0;1964.0;46.76;Centro;Apartamento
+Apartamento;Rio Comprido;3;1;1;79;2100.0;900.0;0.0;3000.0;37.97;Centro;Apartamento
+Apartamento;Centro;1;0;0;46;850.0;550.0;45.0;1445.0;31.41;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;60;1250.0;585.0;0.0;1835.0;30.58;Centro;Apartamento
+Apartamento;Centro;2;0;0;65;2600.0;600.0;20.0;3220.0;49.54;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;1;55;1700.0;485.0;0.0;2185.0;39.73;Centro;Apartamento
+Apartamento;Estácio;2;1;0;65;1500.0;800.0;0.0;2300.0;35.38;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;1;50;1550.0;388.0;367.0;2305.0;46.1;Centro;Apartamento
+Apartamento;Centro;3;0;0;90;2100.0;550.0;50.0;2700.0;30.0;Centro;Apartamento
+Apartamento;Centro;1;0;0;50;1500.0;450.0;25.0;1975.0;39.5;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;27;900.0;340.0;0.0;1240.0;45.93;Centro;Apartamento
+Apartamento;Glória;1;0;0;30;1000.0;500.0;20.0;1520.0;50.67;Centro;Apartamento
+Apartamento;Catumbi;2;1;0;53;650.0;502.0;0.0;1152.0;21.74;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;1;52;1500.0;520.0;0.0;2020.0;38.85;Centro;Apartamento
+Apartamento;Glória;1;0;0;30;1400.0;450.0;30.0;1880.0;62.67;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;70;1500.0;510.0;0.0;2010.0;28.71;Centro;Apartamento
+Apartamento;Lapa;1;1;0;50;2150.0;885.0;50.0;3085.0;61.7;Centro;Apartamento
+Apartamento;Rio Comprido;3;0;0;86;1600.0;350.0;0.0;1950.0;22.67;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;1;65;2500.0;850.0;130.0;3480.0;53.54;Centro;Apartamento
+Apartamento;Rio Comprido;3;0;0;86;1800.0;530.0;76.0;2406.0;27.98;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;0;46;1350.0;373.0;0.0;1723.0;37.46;Centro;Apartamento
+Apartamento;Centro;1;0;0;40;1000.0;383.0;25.0;1408.0;35.2;Centro;Apartamento
+Apartamento;Catumbi;1;0;0;40;1000.0;146.0;0.0;1146.0;28.65;Centro;Apartamento
+Apartamento;Centro;1;0;0;27;600.0;420.0;89.0;1109.0;41.07;Centro;Apartamento
+Apartamento;Lapa;2;0;0;55;2400.0;540.0;21.0;2961.0;53.84;Centro;Apartamento
+Apartamento;Glória;1;0;0;49;1300.0;500.0;35.0;1835.0;37.45;Centro;Apartamento
+Apartamento;Glória;1;0;0;65;2700.0;270.0;15.0;2985.0;45.92;Centro;Apartamento
+Apartamento;Centro;1;0;0;39;1460.0;290.0;0.0;1750.0;44.87;Centro;Apartamento
+Apartamento;Centro;1;0;0;40;1200.0;350.0;21.0;1571.0;39.28;Centro;Apartamento
+Apartamento;Centro;2;0;0;80;2100.0;580.0;22.0;2702.0;33.78;Centro;Apartamento
+Apartamento;Lapa;2;0;0;50;1800.0;350.0;0.0;2150.0;43.0;Centro;Apartamento
+Apartamento;Glória;2;0;0;112;2300.0;690.0;0.0;2990.0;26.7;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;47;1300.0;410.0;1350.0;3060.0;65.11;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;55;1800.0;548.0;0.0;2348.0;42.69;Centro;Apartamento
+Apartamento;Lapa;1;0;0;44;1300.0;480.0;34.0;1814.0;41.23;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;60;1500.0;950.0;320.0;2770.0;46.17;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;55;1400.0;550.0;50.0;2000.0;36.36;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;70;1300.0;610.0;0.0;1910.0;27.29;Centro;Apartamento
+Apartamento;Centro;1;0;0;33;1150.0;370.0;20.0;1540.0;46.67;Centro;Apartamento
+Apartamento;Centro;1;0;0;35;1000.0;335.0;25.0;1360.0;38.86;Centro;Apartamento
+Apartamento;Centro;1;0;0;46;1500.0;280.0;47.0;1827.0;39.72;Centro;Apartamento
+Apartamento;Centro;1;0;0;57;1400.0;450.0;220.0;2070.0;36.32;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;69;1900.0;550.0;150.0;2600.0;37.68;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;66;1600.0;300.0;52.0;1952.0;29.58;Centro;Apartamento
+Apartamento;Centro;2;0;0;90;2100.0;570.0;40.0;2710.0;30.11;Centro;Apartamento
+Apartamento;Centro;2;0;0;76;1500.0;699.0;231.0;2430.0;31.97;Centro;Apartamento
+Apartamento;Lapa;0;0;0;30;900.0;280.0;22.0;1202.0;40.07;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;0;50;990.0;375.0;15.0;1380.0;27.6;Centro;Apartamento
+Apartamento;Santa Teresa;3;0;0;96;2600.0;448.0;0.0;3048.0;31.75;Centro;Apartamento
+Apartamento;Centro;1;1;0;38;1200.0;381.0;14.0;1595.0;41.97;Centro;Apartamento
+Apartamento;Centro;2;0;0;47;1200.0;515.0;50.0;1765.0;37.55;Centro;Apartamento
+Apartamento;Glória;2;0;0;74;2200.0;544.0;81.0;2825.0;38.18;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;60;1350.0;630.0;38.0;2018.0;33.63;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;1;70;2900.0;750.0;250.0;3900.0;55.71;Centro;Apartamento
+Apartamento;São Cristóvão;3;1;1;95;2500.0;1000.0;98.0;3598.0;37.87;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;1;45;1700.0;310.0;0.0;2010.0;44.67;Centro;Apartamento
+Apartamento;Glória;2;0;0;70;1900.0;668.0;67.0;2635.0;37.64;Centro;Apartamento
+Apartamento;Santa Teresa;3;0;1;100;2250.0;420.0;50.0;2720.0;27.2;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;60;1500.0;412.0;0.0;1912.0;31.87;Centro;Apartamento
+Apartamento;Rio Comprido;3;1;0;110;2000.0;500.0;0.0;2500.0;22.73;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;51;1300.0;284.0;0.0;1584.0;31.06;Centro;Apartamento
+Apartamento;Rio Comprido;3;1;0;92;1600.0;380.0;68.0;2048.0;22.26;Centro;Apartamento
+Apartamento;Centro;1;0;0;35;900.0;517.0;25.0;1442.0;41.2;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;88;1200.0;693.0;0.0;1893.0;21.51;Centro;Apartamento
+Apartamento;Glória;3;0;1;120;3900.0;838.0;168.0;4906.0;40.88;Centro;Apartamento
+Apartamento;Centro;1;0;0;26;750.0;400.0;0.0;1150.0;44.23;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;33;1200.0;379.0;135.0;1714.0;51.94;Centro;Apartamento
+Apartamento;Glória;1;0;0;47;1150.0;500.0;25.0;1675.0;35.64;Centro;Apartamento
+Apartamento;Centro;2;0;0;80;2400.0;385.0;175.0;2960.0;37.0;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;1;70;2700.0;400.0;20.0;3120.0;44.57;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;95;2100.0;680.0;55.0;2835.0;29.84;Centro;Apartamento
+Apartamento;Centro;2;0;0;65;2690.0;530.0;21.0;3241.0;49.86;Centro;Apartamento
+Apartamento;Centro;2;0;0;65;1600.0;400.0;0.0;2000.0;30.77;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;1;45;2150.0;700.0;100.0;2950.0;65.56;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;45;1700.0;445.0;0.0;2145.0;47.67;Centro;Apartamento
+Apartamento;Glória;1;0;0;50;1400.0;480.0;20.0;1900.0;38.0;Centro;Apartamento
+Apartamento;Santa Teresa;3;0;0;110;1800.0;886.0;70.0;2756.0;25.05;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;60;1500.0;660.0;0.0;2160.0;36.0;Centro;Apartamento
+Apartamento;Glória;1;0;0;52;1700.0;560.0;0.0;2260.0;43.46;Centro;Apartamento
+Apartamento;Benfica;2;1;0;55;1000.0;283.0;13.0;1296.0;23.56;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;62;1200.0;480.0;14.0;1694.0;27.32;Centro;Apartamento
+Apartamento;Centro;2;0;0;70;1200.0;700.0;50.0;1950.0;27.86;Centro;Apartamento
+Apartamento;Santa Teresa;2;1;0;80;1800.0;450.0;220.0;2470.0;30.88;Centro;Apartamento
+Apartamento;Centro;1;0;1;39;1650.0;580.0;51.0;2281.0;58.49;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;1;55;1200.0;716.0;0.0;1916.0;34.84;Centro;Apartamento
+Apartamento;Santa Teresa;4;0;0;160;3000.0;200.0;85.0;3285.0;20.53;Centro;Apartamento
+Apartamento;Centro;1;0;0;40;1100.0;707.0;70.0;1877.0;46.92;Centro;Apartamento
+Apartamento;São Cristóvão;1;0;0;55;900.0;450.0;0.0;1350.0;24.55;Centro;Apartamento
+Apartamento;Centro;1;0;0;40;1050.0;340.0;0.0;1390.0;34.75;Centro;Apartamento
+Apartamento;São Cristóvão;3;0;0;60;1300.0;400.0;114.0;1814.0;30.23;Centro;Apartamento
+Apartamento;Centro;2;0;0;79;1900.0;500.0;35.0;2435.0;30.82;Centro;Apartamento
+Apartamento;Centro;1;0;0;34;1000.0;454.0;25.0;1479.0;43.5;Centro;Apartamento
+Apartamento;São Cristóvão;3;0;0;70;1200.0;350.0;34.0;1584.0;22.63;Centro;Apartamento
+Apartamento;Centro;1;0;0;35;1100.0;340.0;20.0;1460.0;41.71;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;65;1300.0;917.0;0.0;2217.0;34.11;Centro;Apartamento
+Apartamento;Rio Comprido;2;0;0;90;1750.0;225.0;0.0;1975.0;21.94;Centro;Apartamento
+Apartamento;Centro;1;0;0;43;1400.0;420.0;47.0;1867.0;43.42;Centro;Apartamento
+Apartamento;Centro;1;0;0;25;850.0;223.0;24.0;1097.0;43.88;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;60;1700.0;400.0;12.0;2112.0;35.2;Centro;Apartamento
+Apartamento;Santa Teresa;3;0;0;100;2100.0;370.0;150.0;2620.0;26.2;Centro;Apartamento
+Apartamento;Centro;1;0;0;32;900.0;342.0;24.0;1266.0;39.56;Centro;Apartamento
+Apartamento;Centro;2;0;0;62;2500.0;530.0;0.0;3030.0;48.87;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;60;1700.0;260.0;0.0;1960.0;32.67;Centro;Apartamento
+Apartamento;Glória;2;0;0;80;1900.0;700.0;79.0;2679.0;33.49;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;64;1900.0;430.0;69.0;2399.0;37.48;Centro;Apartamento
+Apartamento;Centro;2;0;0;60;3000.0;550.0;70.0;3620.0;60.33;Centro;Apartamento
+Apartamento;Centro;1;0;0;71;1800.0;400.0;66.0;2266.0;31.92;Centro;Apartamento
+Apartamento;Centro;1;0;0;47;1840.0;418.0;24.0;2282.0;48.55;Centro;Apartamento
+Apartamento;Centro;1;0;0;28;900.0;370.0;20.0;1290.0;46.07;Centro;Apartamento
+Apartamento;Centro;1;0;0;37;940.0;385.0;24.0;1349.0;36.46;Centro;Apartamento
+Apartamento;Centro;1;0;0;34;850.0;410.0;24.0;1284.0;37.76;Centro;Apartamento
+Apartamento;Centro;2;0;0;65;1400.0;420.0;21.0;1841.0;28.32;Centro;Apartamento
+Apartamento;Rio Comprido;2;0;0;80;1100.0;365.0;15.0;1480.0;18.5;Centro;Apartamento
+Apartamento;Centro;1;0;0;38;900.0;355.0;21.0;1276.0;33.58;Centro;Apartamento
+Apartamento;Centro;1;0;0;53;1350.0;354.0;50.0;1754.0;33.09;Centro;Apartamento
+Apartamento;Rio Comprido;3;1;0;120;1700.0;700.0;83.0;2483.0;20.69;Centro;Apartamento
+Apartamento;Glória;1;0;0;36;1200.0;638.0;56.0;1894.0;52.61;Centro;Apartamento
+Apartamento;Cidade Nova;3;2;0;75;1900.0;600.0;16.0;2516.0;33.55;Centro;Apartamento
+Apartamento;Centro;0;0;0;32;700.0;358.0;21.0;1079.0;33.72;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;66;1600.0;368.0;12.0;1980.0;30.0;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;1;50;1850.0;388.0;367.0;2605.0;52.1;Centro;Apartamento
+Apartamento;Centro;1;0;0;48;1300.0;335.0;21.0;1656.0;34.5;Centro;Apartamento
+Apartamento;Gamboa;2;1;0;61;1100.0;401.0;0.0;1501.0;24.61;Centro;Apartamento
+Apartamento;Glória;2;1;0;67;2500.0;797.0;74.0;3371.0;50.31;Centro;Apartamento
+Apartamento;Rio Comprido;1;0;0;39;1200.0;250.0;15.0;1465.0;37.56;Centro;Apartamento
+Apartamento;Estácio;1;1;1;32;1000.0;410.0;21.0;1431.0;44.72;Centro;Apartamento
+Apartamento;Glória;1;0;0;60;1200.0;550.0;70.0;1820.0;30.33;Centro;Apartamento
+Apartamento;Centro;1;0;0;35;1200.0;676.0;27.0;1903.0;54.37;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;60;1700.0;620.0;0.0;2320.0;38.67;Centro;Apartamento
+Apartamento;Glória;2;1;0;72;2200.0;610.0;119.0;2929.0;40.68;Centro;Apartamento
+Apartamento;Centro;1;0;0;48;800.0;80.0;0.0;880.0;18.33;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;90;1300.0;350.0;15.0;1665.0;18.5;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;1;75;1800.0;480.0;80.0;2360.0;31.47;Centro;Apartamento
+Apartamento;Glória;3;0;1;90;2800.0;610.0;117.0;3527.0;39.19;Centro;Apartamento
+Apartamento;Rio Comprido;3;0;0;160;2000.0;850.0;1200.0;4050.0;25.31;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;60;1300.0;290.0;73.0;1663.0;27.72;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;40;1200.0;240.0;0.0;1440.0;36.0;Centro;Apartamento
+Apartamento;Lapa;1;0;0;40;1800.0;500.0;0.0;2300.0;57.5;Centro;Apartamento
+Apartamento;Santa Teresa;3;0;0;80;2200.0;290.0;20.0;2510.0;31.38;Centro;Apartamento
+Apartamento;Glória;1;0;0;43;1500.0;510.0;48.0;2058.0;47.86;Centro;Apartamento
+Apartamento;Centro;2;1;0;67;2100.0;680.0;0.0;2780.0;41.49;Centro;Apartamento
+Apartamento;Rio Comprido;2;0;0;65;1000.0;450.0;25.0;1475.0;22.69;Centro;Apartamento
+Apartamento;São Cristóvão;1;1;0;60;1100.0;400.0;11.0;1511.0;25.18;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;61;1100.0;230.0;0.0;1330.0;21.8;Centro;Apartamento
+Apartamento;Rio Comprido;1;1;0;99;1000.0;777.0;68.0;1845.0;18.64;Centro;Apartamento
+Apartamento;Centro;1;0;0;56;1900.0;917.0;2004.0;4821.0;86.09;Centro;Apartamento
+Apartamento;São Cristóvão;1;0;0;41;1000.0;130.0;0.0;1130.0;27.56;Centro;Apartamento
+Apartamento;Glória;2;1;0;55;2200.0;438.0;0.0;2638.0;47.96;Centro;Apartamento
+Apartamento;Estácio;2;1;0;70;1480.0;660.0;12.0;2152.0;30.74;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;63;1500.0;701.0;0.0;2201.0;34.94;Centro;Apartamento
+Apartamento;Estácio;2;1;0;80;1600.0;870.0;15.0;2485.0;31.06;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;1;76;1300.0;280.0;12.0;1592.0;20.95;Centro;Apartamento
+Apartamento;Centro;1;0;0;36;900.0;230.0;20.0;1150.0;31.94;Centro;Apartamento
+Apartamento;Centro;1;0;0;35;950.0;425.0;25.0;1400.0;40.0;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;1;40;1700.0;680.0;90.0;2470.0;61.75;Centro;Apartamento
+Apartamento;Centro;1;0;0;28;1350.0;394.0;20.0;1764.0;63.0;Centro;Apartamento
+Apartamento;Centro;1;0;0;40;1200.0;300.0;0.0;1500.0;37.5;Centro;Apartamento
+Apartamento;Centro;1;0;0;35;1150.0;430.0;180.0;1760.0;50.29;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;48;1050.0;330.0;0.0;1380.0;28.75;Centro;Apartamento
+Apartamento;Centro;1;0;0;34;900.0;400.0;0.0;1300.0;38.24;Centro;Apartamento
+Apartamento;Centro;1;0;0;34;1500.0;480.0;25.0;2005.0;58.97;Centro;Apartamento
+Apartamento;Centro;1;0;0;20;800.0;338.0;20.0;1158.0;57.9;Centro;Apartamento
+Apartamento;São Cristóvão;1;0;0;45;700.0;270.0;20.0;990.0;22.0;Centro;Apartamento
+Apartamento;Centro;1;0;0;30;900.0;415.0;23.0;1338.0;44.6;Centro;Apartamento
+Apartamento;Centro;1;1;0;46;1100.0;560.0;490.0;2150.0;46.74;Centro;Apartamento
+Apartamento;Santa Teresa;3;1;0;77;1750.0;542.0;34.0;2326.0;30.21;Centro;Apartamento
+Apartamento;Santo Cristo;1;1;0;27;800.0;120.0;0.0;920.0;34.07;Centro;Apartamento
+Apartamento;Centro;2;0;0;77;1650.0;230.0;0.0;1880.0;24.42;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;36;1400.0;435.0;13.0;1848.0;51.33;Centro;Apartamento
+Apartamento;Estácio;2;1;0;71;1400.0;640.0;63.0;2103.0;29.62;Centro;Apartamento
+Apartamento;Santa Teresa;3;0;1;115;1550.0;300.0;0.0;1850.0;16.09;Centro;Apartamento
+Apartamento;Centro;2;0;0;52;1700.0;454.0;51.0;2205.0;42.4;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;82;1700.0;515.0;0.0;2215.0;27.01;Centro;Apartamento
+Apartamento;Centro;1;0;0;40;1300.0;460.0;0.0;1760.0;44.0;Centro;Apartamento
+Apartamento;Glória;1;0;0;35;1150.0;350.0;25.0;1525.0;43.57;Centro;Apartamento
+Apartamento;Centro;0;0;0;145;6000.0;3796.0;940.0;10736.0;74.04;Centro;Apartamento
+Apartamento;São Cristóvão;3;0;0;74;2400.0;280.0;12.0;2692.0;36.38;Centro;Apartamento
+Apartamento;Centro;1;0;0;47;950.0;250.0;0.0;1200.0;25.53;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;58;900.0;591.0;0.0;1491.0;25.71;Centro;Apartamento
+Apartamento;Centro;1;0;0;30;800.0;280.0;24.0;1104.0;36.8;Centro;Apartamento
+Apartamento;Centro;1;0;0;25;1000.0;280.0;0.0;1280.0;51.2;Centro;Apartamento
+Apartamento;Rio Comprido;4;1;0;110;1650.0;500.0;0.0;2150.0;19.55;Centro;Apartamento
+Apartamento;Centro;1;0;0;21;750.0;269.0;24.0;1043.0;49.67;Centro;Apartamento
+Apartamento;Estácio;1;1;0;36;750.0;342.0;0.0;1092.0;30.33;Centro;Apartamento
+Apartamento;Centro;2;1;1;118;2500.0;720.0;271.0;3491.0;29.58;Centro;Apartamento
+Apartamento;Centro;3;0;0;100;2300.0;500.0;22.0;2822.0;28.22;Centro;Apartamento
+Apartamento;Santo Cristo;2;0;0;69;900.0;205.0;0.0;1105.0;16.01;Centro;Apartamento
+Apartamento;Glória;1;0;0;30;1100.0;348.0;13.0;1461.0;48.7;Centro;Apartamento
+Apartamento;Centro;1;0;0;40;1000.0;438.0;21.0;1459.0;36.48;Centro;Apartamento
+Apartamento;Centro;2;0;0;80;1300.0;511.0;0.0;1811.0;22.64;Centro;Apartamento
+Apartamento;Estácio;1;0;0;40;1500.0;200.0;15.0;1715.0;42.88;Centro;Apartamento
+Apartamento;São Cristóvão;3;1;1;70;2300.0;632.0;17.0;2949.0;42.13;Centro;Apartamento
+Apartamento;Santa Teresa;3;0;0;149;2000.0;890.0;52.0;2942.0;19.74;Centro;Apartamento
+Apartamento;Cidade Nova;2;0;0;60;1300.0;402.0;32.0;1734.0;28.9;Centro;Apartamento
+Apartamento;Santa Teresa;3;1;0;148;2600.0;1430.0;0.0;4030.0;27.23;Centro;Apartamento
+Apartamento;Centro;3;0;1;80;1450.0;800.0;65.0;2315.0;28.94;Centro;Apartamento
+Apartamento;Centro;1;0;0;45;1000.0;350.0;23.0;1373.0;30.51;Centro;Apartamento
+Apartamento;Glória;1;0;0;46;1200.0;447.0;0.0;1647.0;35.8;Centro;Apartamento
+Apartamento;Rio Comprido;3;1;1;89;1600.0;741.0;38.0;2379.0;26.73;Centro;Apartamento
+Apartamento;Centro;1;0;0;38;1000.0;335.0;175.0;1510.0;39.74;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;115;2500.0;1312.0;21.0;3833.0;33.33;Centro;Apartamento
+Apartamento;Centro;1;1;0;45;2000.0;600.0;150.0;2750.0;61.11;Centro;Apartamento
+Apartamento;Centro;1;0;0;20;800.0;430.0;38.0;1268.0;63.4;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;25;750.0;400.0;0.0;1150.0;46.0;Centro;Apartamento
+Apartamento;Catumbi;2;0;0;46;1300.0;300.0;0.0;1600.0;34.78;Centro;Apartamento
+Apartamento;Centro;1;1;0;42;1700.0;560.0;47.0;2307.0;54.93;Centro;Apartamento
+Apartamento;Glória;1;0;0;44;1400.0;480.0;26.0;1906.0;43.32;Centro;Apartamento
+Apartamento;Centro;1;0;0;25;1200.0;390.0;0.0;1590.0;63.6;Centro;Apartamento
+Apartamento;Glória;1;0;0;45;1400.0;450.0;40.0;1890.0;42.0;Centro;Apartamento
+Apartamento;Glória;1;0;1;60;1900.0;600.0;0.0;2500.0;41.67;Centro;Apartamento
+Apartamento;Lapa;2;0;0;50;1900.0;346.0;24.0;2270.0;45.4;Centro;Apartamento
+Apartamento;Centro;1;0;0;31;850.0;560.0;115.0;1525.0;49.19;Centro;Apartamento
+Apartamento;Centro;1;0;0;41;1100.0;390.0;24.0;1514.0;36.93;Centro;Apartamento
+Apartamento;Centro;2;0;0;62;1500.0;440.0;21.0;1961.0;31.63;Centro;Apartamento
+Apartamento;Centro;1;0;0;34;1000.0;600.0;129.0;1729.0;50.85;Centro;Apartamento
+Apartamento;Glória;1;1;0;75;1900.0;800.0;188.0;2888.0;38.51;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;50;1500.0;60.0;100.0;1660.0;33.2;Centro;Apartamento
+Apartamento;Estácio;1;1;0;50;1200.0;240.0;15.0;1455.0;29.1;Centro;Apartamento
+Apartamento;Centro;1;0;0;38;800.0;383.0;0.0;1183.0;31.13;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;50;1850.0;290.0;0.0;2140.0;42.8;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;36;1300.0;180.0;14.0;1494.0;41.5;Centro;Apartamento
+Apartamento;Glória;1;0;1;35;2500.0;520.0;25.0;3045.0;87.0;Centro;Apartamento
+Apartamento;Centro;1;0;0;45;1700.0;300.0;25.0;2025.0;45.0;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;65;1200.0;750.0;15.0;1965.0;30.23;Centro;Apartamento
+Apartamento;Centro;1;0;0;45;1200.0;305.0;46.0;1551.0;34.47;Centro;Apartamento
+Apartamento;Glória;1;0;1;39;1200.0;600.0;30.0;1830.0;46.92;Centro;Apartamento
+Apartamento;Centro;1;0;0;31;1200.0;354.0;0.0;1554.0;50.13;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;60;1100.0;350.0;20.0;1470.0;24.5;Centro;Apartamento
+Apartamento;Estácio;2;0;0;31;900.0;250.0;20.0;1170.0;37.74;Centro;Apartamento
+Apartamento;Glória;1;0;0;40;2000.0;600.0;50.0;2650.0;66.25;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;60;1500.0;772.0;0.0;2272.0;37.87;Centro;Apartamento
+Apartamento;Rio Comprido;3;1;0;90;2300.0;778.0;65.0;3143.0;34.92;Centro;Apartamento
+Apartamento;Glória;2;0;0;77;2000.0;762.0;90.0;2852.0;37.04;Centro;Apartamento
+Apartamento;Rio Comprido;2;0;0;70;1400.0;600.0;0.0;2000.0;28.57;Centro;Apartamento
+Apartamento;Centro;1;0;0;40;1300.0;300.0;0.0;1600.0;40.0;Centro;Apartamento
+Apartamento;Santa Teresa;2;1;0;57;1500.0;590.0;16.0;2106.0;36.95;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;88;1100.0;693.0;32.0;1825.0;20.74;Centro;Apartamento
+Apartamento;Glória;2;1;0;80;2400.0;780.0;85.0;3265.0;40.81;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;1;65;1800.0;780.0;14.0;2594.0;39.91;Centro;Apartamento
+Apartamento;Estácio;2;1;0;70;1700.0;650.0;0.0;2350.0;33.57;Centro;Apartamento
+Apartamento;Lapa;2;0;0;65;1500.0;512.0;20.0;2032.0;31.26;Centro;Apartamento
+Apartamento;Centro;1;1;0;39;1800.0;980.0;21.0;2801.0;71.82;Centro;Apartamento
+Apartamento;Benfica;3;0;0;120;790.0;180.0;162.0;1132.0;9.43;Centro;Apartamento
+Apartamento;Santa Teresa;3;1;0;148;3300.0;800.0;118.0;4218.0;28.5;Centro;Apartamento
+Apartamento;Rio Comprido;2;0;0;60;1250.0;600.0;0.0;1850.0;30.83;Centro;Apartamento
+Apartamento;Glória;1;0;0;45;1400.0;508.0;20.0;1928.0;42.84;Centro;Apartamento
+Apartamento;Centro;1;0;0;40;1600.0;350.0;20.0;1970.0;49.25;Centro;Apartamento
+Apartamento;Centro;1;0;0;41;1400.0;180.0;20.0;1600.0;39.02;Centro;Apartamento
+Apartamento;Centro;2;0;0;50;2000.0;220.0;189.0;2409.0;48.18;Centro;Apartamento
+Apartamento;Centro;1;0;0;35;1600.0;580.0;150.0;2330.0;66.57;Centro;Apartamento
+Apartamento;Glória;1;0;1;45;1350.0;450.0;20.0;1820.0;40.44;Centro;Apartamento
+Apartamento;Centro;1;0;0;22;1000.0;420.0;24.0;1444.0;65.64;Centro;Apartamento
+Apartamento;Centro;3;0;0;100;1100.0;621.0;0.0;1721.0;17.21;Centro;Apartamento
+Apartamento;Estácio;2;0;0;65;1000.0;590.0;0.0;1590.0;24.46;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;52;1100.0;766.0;14.0;1880.0;36.15;Centro;Apartamento
+Apartamento;Lapa;1;1;0;39;1600.0;800.0;15.0;2415.0;61.92;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;63;1490.0;743.0;33.0;2266.0;35.97;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;31;1000.0;330.0;15.0;1345.0;43.39;Centro;Apartamento
+Apartamento;São Cristóvão;2;2;1;58;1600.0;540.0;360.0;2500.0;43.1;Centro;Apartamento
+Apartamento;Rio Comprido;2;0;0;75;1100.0;480.0;47.0;1627.0;21.69;Centro;Apartamento
+Apartamento;Centro;1;0;0;34;1100.0;313.0;25.0;1438.0;42.29;Centro;Apartamento
+Apartamento;Centro;1;0;0;25;1490.0;390.0;9.0;1889.0;75.56;Centro;Apartamento
+Apartamento;Rio Comprido;2;0;0;64;1300.0;200.0;0.0;1500.0;23.44;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;70;1300.0;250.0;0.0;1550.0;22.14;Centro;Apartamento
+Apartamento;São Cristóvão;1;1;0;36;1000.0;280.0;136.0;1416.0;39.33;Centro;Apartamento
+Apartamento;Benfica;3;0;0;115;790.0;180.0;556.0;1526.0;13.27;Centro;Apartamento
+Apartamento;Rio Comprido;2;0;0;70;1000.0;469.0;96.0;1565.0;22.36;Centro;Apartamento
+Apartamento;Rio Comprido;2;0;0;75;1200.0;460.0;30.0;1690.0;22.53;Centro;Apartamento
+Apartamento;Centro;1;0;0;44;1600.0;619.0;18.0;2237.0;50.84;Centro;Apartamento
+Apartamento;Centro;1;0;0;45;1600.0;570.0;25.0;2195.0;48.78;Centro;Apartamento
+Apartamento;Centro;1;0;0;22;1050.0;280.0;24.0;1354.0;61.55;Centro;Apartamento
+Apartamento;Fátima;1;0;0;25;800.0;300.0;20.0;1120.0;44.8;Centro;Apartamento
+Apartamento;Centro;1;0;0;40;900.0;400.0;21.0;1321.0;33.02;Centro;Apartamento
+Apartamento;Centro;1;0;0;21;830.0;355.0;24.0;1209.0;57.57;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;25;1500.0;650.0;90.0;2240.0;89.6;Centro;Apartamento
+Apartamento;Glória;1;0;0;48;1800.0;400.0;66.0;2266.0;47.21;Centro;Apartamento
+Apartamento;Rio Comprido;2;0;0;56;1150.0;462.0;0.0;1612.0;28.79;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;60;1000.0;700.0;30.0;1730.0;28.83;Centro;Apartamento
+Apartamento;Santa Teresa;3;1;0;148;3300.0;800.0;118.0;4218.0;28.5;Centro;Apartamento
+Apartamento;Glória;1;0;0;30;800.0;495.0;0.0;1295.0;43.17;Centro;Apartamento
+Apartamento;Gamboa;2;0;0;70;1400.0;250.0;0.0;1650.0;23.57;Centro;Apartamento
+Apartamento;Santa Teresa;3;0;1;150;2700.0;231.0;98.0;3029.0;20.19;Centro;Apartamento
+Apartamento;Centro;1;0;0;25;1100.0;316.0;24.0;1440.0;57.6;Centro;Apartamento
+Apartamento;Centro;1;0;0;27;1000.0;420.0;0.0;1420.0;52.59;Centro;Apartamento
+Apartamento;Centro;2;1;1;70;2800.0;600.0;150.0;3550.0;50.71;Centro;Apartamento
+Apartamento;São Cristóvão;2;0;0;65;1300.0;650.0;0.0;1950.0;30.0;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;90;2300.0;778.0;71.0;3149.0;34.99;Centro;Apartamento
+Apartamento;Lapa;1;0;0;35;1100.0;300.0;25.0;1425.0;40.71;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;71;940.0;550.0;14.0;1504.0;21.18;Centro;Apartamento
+Apartamento;Rio Comprido;3;0;0;98;2000.0;600.0;30.0;2630.0;26.84;Centro;Apartamento
+Apartamento;Centro;2;0;0;50;1000.0;450.0;50.0;1500.0;30.0;Centro;Apartamento
+Apartamento;Centro;1;0;1;40;1400.0;350.0;300.0;2050.0;51.25;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;1;89;2100.0;530.0;90.0;2720.0;30.56;Centro;Apartamento
+Apartamento;Glória;2;0;0;45;2200.0;511.0;24.0;2735.0;60.78;Centro;Apartamento
+Apartamento;Glória;1;0;0;42;1200.0;450.0;54.0;1704.0;40.57;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;0;81;700.0;885.0;89.0;1674.0;20.67;Centro;Apartamento
+Apartamento;Centro;1;0;0;40;1000.0;400.0;0.0;1400.0;35.0;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;0;66;1700.0;250.0;0.0;1950.0;29.55;Centro;Apartamento
+Apartamento;Centro;0;0;0;29;600.0;509.0;21.0;1130.0;38.97;Centro;Apartamento
+Apartamento;Centro;1;0;0;45;1350.0;450.0;50.0;1850.0;41.11;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;56;1400.0;560.0;0.0;1960.0;35.0;Centro;Apartamento
+Apartamento;Santa Teresa;3;1;1;75;2700.0;613.0;0.0;3313.0;44.17;Centro;Apartamento
+Apartamento;Centro;1;0;0;24;750.0;322.0;21.0;1093.0;45.54;Centro;Apartamento
+Apartamento;Estácio;2;1;0;83;1600.0;751.0;0.0;2351.0;28.33;Centro;Apartamento
+Apartamento;Centro;2;1;0;62;2380.0;680.0;0.0;3060.0;49.35;Centro;Apartamento
+Apartamento;Glória;1;0;0;39;900.0;246.0;0.0;1146.0;29.38;Centro;Apartamento
+Apartamento;Glória;2;0;0;65;1800.0;538.0;68.0;2406.0;37.02;Centro;Apartamento
+Apartamento;Glória;2;0;0;70;2200.0;580.0;82.0;2862.0;40.89;Centro;Apartamento
+Apartamento;Centro;1;0;0;35;1000.0;500.0;24.0;1524.0;43.54;Centro;Apartamento
+Apartamento;Centro;2;0;0;53;1500.0;450.0;0.0;1950.0;36.79;Centro;Apartamento
+Apartamento;Glória;2;1;0;49;1900.0;770.0;15.0;2685.0;54.8;Centro;Apartamento
+Apartamento;Santa Teresa;3;0;0;80;2200.0;250.0;20.0;2470.0;30.88;Centro;Apartamento
+Apartamento;Centro;1;0;0;34;800.0;330.0;18.0;1148.0;33.76;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;1;90;1500.0;640.0;0.0;2140.0;23.78;Centro;Apartamento
+Apartamento;Centro;2;0;0;60;1900.0;600.0;205.0;2705.0;45.08;Centro;Apartamento
+Apartamento;Centro;1;0;0;20;900.0;238.0;10.0;1148.0;57.4;Centro;Apartamento
+Apartamento;Rio Comprido;4;0;0;95;3000.0;200.0;0.0;3200.0;33.68;Centro;Apartamento
+Apartamento;Centro;1;0;0;42;1100.0;410.0;0.0;1510.0;35.95;Centro;Apartamento
+Apartamento;Rio Comprido;2;1;1;64;1500.0;330.0;34.0;1864.0;29.12;Centro;Apartamento
+Apartamento;Santa Teresa;2;0;1;65;1800.0;175.0;13.0;1988.0;30.58;Centro;Apartamento
+Apartamento;Centro;1;0;0;27;1100.0;370.0;0.0;1470.0;54.44;Centro;Apartamento
+Apartamento;Centro;1;0;0;59;1400.0;499.0;10.0;1909.0;32.36;Centro;Apartamento
+Apartamento;Santa Teresa;1;1;0;40;1500.0;317.0;34.0;1851.0;46.28;Centro;Apartamento
+Apartamento;Centro;1;0;0;59;1200.0;700.0;40.0;1940.0;32.88;Centro;Apartamento
+Apartamento;Santa Teresa;2;1;2;50;800.0;360.0;14.0;1174.0;23.48;Centro;Apartamento
+Apartamento;Rio Comprido;1;0;0;58;1200.0;425.0;12.0;1637.0;28.22;Centro;Apartamento
+Apartamento;São Cristóvão;1;1;0;47;1500.0;390.0;34.0;1924.0;40.94;Centro;Apartamento
+Apartamento;Catumbi;2;0;0;64;1300.0;400.0;0.0;1700.0;26.56;Centro;Apartamento
+Apartamento;Centro;2;0;1;55;1800.0;600.0;100.0;2500.0;45.45;Centro;Apartamento
+Apartamento;Centro;1;0;0;31;1000.0;400.0;20.0;1420.0;45.81;Centro;Apartamento
+Apartamento;Estácio;1;1;1;32;1000.0;409.0;14.0;1423.0;44.47;Centro;Apartamento
+Apartamento;Rio Comprido;2;0;0;64;1000.0;692.0;0.0;1692.0;26.44;Centro;Apartamento
+Apartamento;Centro;2;0;0;63;1300.0;526.0;21.0;1847.0;29.32;Centro;Apartamento
+Apartamento;Santa Teresa;1;0;0;50;1450.0;400.0;0.0;1850.0;37.0;Centro;Apartamento
+Apartamento;São Cristóvão;2;1;1;55;1350.0;580.0;34.0;1964.0;35.71;Centro;Apartamento
+Apartamento;Centro;1;0;0;40;1000.0;300.0;20.0;1320.0;33.0;Centro;Apartamento
+Apartamento;Centro;3;0;0;76;1700.0;350.0;0.0;2050.0;26.97;Centro;Apartamento
+Apartamento;Centro;1;0;0;25;1300.0;280.0;30.0;1610.0;64.4;Centro;Apartamento
+Apartamento;Cidade Nova;2;1;0;57;1600.0;677.0;35.0;2312.0;40.56;Centro;Apartamento
+Apartamento;Glória;1;0;0;46;1100.0;453.0;32.0;1585.0;34.46;Centro;Apartamento
+Apartamento;Santa Teresa;3;0;1;200;4800.0;950.0;67.0;5817.0;29.08;Centro;Apartamento
+Apartamento;Centro;2;0;0;70;2500.0;660.0;85.0;3245.0;46.36;Centro;Apartamento
+Casa;Benfica;1;0;0;33;1200.0;0.0;0.0;1200.0;36.36;Centro;Casa
+Casa;Santa Teresa;5;3;0;260;7000.0;0.0;163.0;7163.0;27.55;Centro;Casa
+Casa;Santa Teresa;14;0;14;350;9500.0;0.0;600.0;10100.0;28.86;Centro;Casa
+Casa;Paquetá;10;0;10;976;20000.0;0.0;0.0;20000.0;20.49;Centro;Casa
+Casa;Glória;4;2;2;400;11000.0;0.0;0.0;11000.0;27.5;Centro;Casa
+Casa;Santa Teresa;3;2;1;200;4000.0;0.0;20.0;4020.0;20.1;Centro;Casa
+Casa;Centro;5;3;0;233;3000.0;0.0;659.0;3659.0;15.7;Centro;Casa
+Casa;Glória;5;0;3;265;8400.0;0.0;0.0;8400.0;31.7;Centro;Casa
+Casa;Santa Teresa;1;0;0;22;500.0;98.0;6.0;604.0;27.45;Centro;Casa
+Casa;Santa Teresa;3;3;0;360;12000.0;0.0;104.0;12104.0;33.62;Centro;Casa
+Casa;Centro;2;0;1;180;4200.0;0.0;0.0;4200.0;23.33;Centro;Casa
+Casa;Glória;4;3;2;851;22000.0;0.0;980.0;22980.0;27.0;Centro;Casa
+Casa;Glória;6;2;0;400;10000.0;0.0;370.0;10370.0;25.92;Centro;Casa
+Casa;Centro;6;0;0;360;12000.0;0.0;120.0;12120.0;33.67;Centro;Casa
+Casa;Santo Cristo;5;0;0;85;1200.0;0.0;0.0;1200.0;14.12;Centro;Casa
+Casa;Santa Teresa;2;0;0;60;1400.0;0.0;56.0;1456.0;24.27;Centro;Casa
+Casa;Rio Comprido;3;0;0;40;1500.0;150.0;0.0;1650.0;41.25;Centro;Casa
+Casa;Santa Teresa;2;0;0;160;2800.0;0.0;0.0;2800.0;17.5;Centro;Casa
+Casa;Rio Comprido;3;4;0;330;5000.0;0.0;0.0;5000.0;15.15;Centro;Casa
+Casa;Santa Teresa;1;0;0;35;1000.0;50.0;0.0;1050.0;30.0;Centro;Casa
+Casa;Santa Teresa;2;0;0;100;1650.0;0.0;35.0;1685.0;16.85;Centro;Casa
+Casa;Rio Comprido;2;0;0;250;5000.0;0.0;3800.0;8800.0;35.2;Centro;Casa
+Casa;Santa Teresa;3;1;1;133;2500.0;0.0;0.0;2500.0;18.8;Centro;Casa
+Casa;Santa Teresa;6;2;0;381;9000.0;0.0;186.0;9186.0;24.11;Centro;Casa
+Casa;Rio Comprido;8;0;0;412;4000.0;0.0;958.0;4958.0;12.03;Centro;Casa
+Casa;Santa Teresa;5;2;3;237;7000.0;0.0;120.0;7120.0;30.04;Centro;Casa
+Casa;Santa Teresa;1;0;0;60;1300.0;0.0;85.0;1385.0;23.08;Centro;Casa
+Casa;Rio Comprido;6;1;0;380;2000.0;0.0;320.0;2320.0;6.11;Centro;Casa
+Casa;Santa Teresa;3;3;1;400;6000.0;0.0;0.0;6000.0;15.0;Centro;Casa
+Casa;Santa Teresa;5;4;0;380;8000.0;0.0;269.0;8269.0;21.76;Centro;Casa
+Casa;Santa Teresa;2;0;1;80;1500.0;0.0;0.0;1500.0;18.75;Centro;Casa
+Casa;Santa Teresa;1;0;0;70;1400.0;0.0;21.0;1421.0;20.3;Centro;Casa
+Casa;Centro;2;0;0;207;4000.0;0.0;0.0;4000.0;19.32;Centro;Casa
+Casa;Centro;5;0;1;160;5000.0;0.0;80.0;5080.0;31.75;Centro;Casa
+Casa de Condomínio;Santa Teresa;2;0;0;72;1400.0;820.0;70.0;2290.0;31.81;Centro;Casa
+Casa de Condomínio;Santa Teresa;2;0;0;90;1300.0;1500.0;20.0;2820.0;31.33;Centro;Casa
+Casa de Condomínio;Glória;4;3;2;600;20000.0;0.0;979.0;20979.0;34.97;Centro;Casa
+Casa de Condomínio;São Cristóvão;2;0;2;120;2000.0;0.0;0.0;2000.0;16.67;Centro;Casa
+Casa de Condomínio;São Cristóvão;2;1;2;100;2100.0;170.0;66.0;2336.0;23.36;Centro;Casa
+Casa de Vila;Santa Teresa;2;0;0;120;2000.0;0.0;0.0;2000.0;16.67;Centro;Casa
+Casa de Vila;Benfica;2;0;0;48;1200.0;40.0;14.0;1254.0;26.12;Centro;Casa
+Casa de Vila;Glória;1;0;0;89;2200.0;0.0;80.0;2280.0;25.62;Centro;Casa
+Casa de Vila;Paquetá;1;0;0;50;1100.0;0.0;7.0;1107.0;22.14;Centro;Casa
+Casa de Vila;São Cristóvão;1;0;0;60;1100.0;0.0;0.0;1100.0;18.33;Centro;Casa
+Casa de Vila;Santo Cristo;4;0;0;110;2000.0;70.0;15.0;2085.0;18.95;Centro;Casa
+Casa de Vila;São Cristóvão;3;1;1;65;1700.0;0.0;15.0;1715.0;26.38;Centro;Casa
+Casa de Vila;Catumbi;1;0;0;45;900.0;0.0;6.0;906.0;20.13;Centro;Casa
+Casa de Vila;Santa Teresa;2;0;0;46;2000.0;0.0;0.0;2000.0;43.48;Centro;Casa
+Casa de Vila;São Cristóvão;1;0;0;33;1400.0;0.0;53.0;1453.0;44.03;Centro;Casa
+Casa de Vila;São Cristóvão;1;0;0;45;1000.0;0.0;15.0;1015.0;22.56;Centro;Casa
+Quitinete;Centro;0;0;0;30;800.0;505.0;0.0;1305.0;43.5;Centro;Apartamento
+Quitinete;Glória;1;0;0;16;1400.0;300.0;210.0;1910.0;119.38;Centro;Apartamento
+Quitinete;Centro;0;0;0;28;700.0;400.0;16.0;1116.0;39.86;Centro;Apartamento
+Quitinete;Centro;1;0;0;33;990.0;463.0;25.0;1478.0;44.79;Centro;Apartamento
+Quitinete;Glória;1;0;1;26;850.0;321.0;29.0;1200.0;46.15;Centro;Apartamento
+Quitinete;Centro;1;0;1;15;750.0;0.0;0.0;750.0;50.0;Centro;Apartamento
+Quitinete;Glória;1;0;0;20;850.0;495.0;0.0;1345.0;67.25;Centro;Apartamento
+Quitinete;Centro;1;0;0;40;1100.0;500.0;0.0;1600.0;40.0;Centro;Apartamento
+Quitinete;Centro;1;0;0;26;1500.0;490.0;0.0;1990.0;76.54;Centro;Apartamento
+Quitinete;Centro;1;0;0;34;1000.0;415.0;0.0;1415.0;41.62;Centro;Apartamento
+Quitinete;Centro;1;1;1;37;1100.0;370.0;25.0;1495.0;40.41;Centro;Apartamento
+Quitinete;Centro;0;0;0;30;900.0;400.0;0.0;1300.0;43.33;Centro;Apartamento
+Quitinete;Centro;1;0;0;28;900.0;350.0;20.0;1270.0;45.36;Centro;Apartamento
+Quitinete;Santa Teresa;1;0;0;20;700.0;303.0;14.0;1017.0;50.85;Centro;Apartamento
+Quitinete;Centro;1;0;0;20;1090.0;300.0;15.0;1405.0;70.25;Centro;Apartamento
+Quitinete;Centro;0;0;0;25;650.0;435.0;0.0;1085.0;43.4;Centro;Apartamento
+Quitinete;Centro;1;0;0;22;750.0;330.0;25.0;1105.0;50.23;Centro;Apartamento
+Quitinete;Centro;1;0;0;32;700.0;480.0;90.0;1270.0;39.69;Centro;Apartamento
+Quitinete;Centro;1;0;0;33;800.0;570.0;0.0;1370.0;41.52;Centro;Apartamento
+Quitinete;Centro;1;0;0;35;700.0;312.0;28.0;1040.0;29.71;Centro;Apartamento
+Quitinete;Centro;1;0;0;36;900.0;325.0;0.0;1225.0;34.03;Centro;Apartamento
+Quitinete;Centro;0;0;0;32;400.0;1000.0;146.0;1546.0;48.31;Centro;Apartamento
+Quitinete;Centro;1;0;0;30;800.0;390.0;0.0;1190.0;39.67;Centro;Apartamento
+Quitinete;Estácio;1;0;0;21;550.0;200.0;0.0;750.0;35.71;Centro;Apartamento
+Quitinete;Centro;1;0;0;31;1000.0;465.0;106.0;1571.0;50.68;Centro;Apartamento
+Quitinete;Rio Comprido;0;0;0;34;790.0;240.0;0.0;1030.0;30.29;Centro;Apartamento
+Quitinete;Centro;1;0;0;27;850.0;143.0;24.0;1017.0;37.67;Centro;Apartamento
+Quitinete;Santa Teresa;1;0;0;20;1200.0;330.0;14.0;1544.0;77.2;Centro;Apartamento
+Quitinete;Lapa;1;0;0;19;1100.0;256.0;0.0;1356.0;71.37;Centro;Apartamento
+Quitinete;Centro;0;0;0;33;800.0;277.0;103.0;1180.0;35.76;Centro;Apartamento
+Quitinete;Centro;0;0;0;32;600.0;508.0;20.0;1128.0;35.25;Centro;Apartamento
+Quitinete;Centro;0;0;0;30;1100.0;420.0;25.0;1545.0;51.5;Centro;Apartamento
+Quitinete;Centro;0;0;0;26;950.0;315.0;21.0;1286.0;49.46;Centro;Apartamento
+Quitinete;Centro;0;0;0;20;950.0;240.0;20.0;1210.0;60.5;Centro;Apartamento
+Quitinete;Santa Teresa;0;0;0;20;700.0;265.0;15.0;980.0;49.0;Centro;Apartamento
+Quitinete;Centro;1;0;0;28;950.0;350.0;0.0;1300.0;46.43;Centro;Apartamento
+Quitinete;Centro;1;0;0;25;700.0;260.0;20.0;980.0;39.2;Centro;Apartamento
+Quitinete;Centro;2;0;0;40;1200.0;625.0;85.0;1910.0;47.75;Centro;Apartamento
+Quitinete;Centro;1;0;0;19;850.0;300.0;24.0;1174.0;61.79;Centro;Apartamento
+Quitinete;Centro;1;0;0;25;800.0;350.0;0.0;1150.0;46.0;Centro;Apartamento
+Quitinete;Centro;1;0;0;31;750.0;350.0;20.0;1120.0;36.13;Centro;Apartamento
+Quitinete;Fátima;0;0;0;25;1000.0;400.0;25.0;1425.0;57.0;Centro;Apartamento
+Quitinete;Santa Teresa;0;1;0;50;800.0;493.0;0.0;1293.0;25.86;Centro;Apartamento
+Quitinete;Centro;0;0;0;28;800.0;303.0;20.0;1123.0;40.11;Centro;Apartamento
+Quitinete;Centro;1;0;0;35;650.0;398.0;0.0;1048.0;29.94;Centro;Apartamento
+Quitinete;Centro;1;0;0;30;750.0;330.0;25.0;1105.0;36.83;Centro;Apartamento
+Quitinete;Centro;1;0;0;25;700.0;292.0;24.0;1016.0;40.64;Centro;Apartamento
+Quitinete;Centro;0;0;0;30;1000.0;480.0;0.0;1480.0;49.33;Centro;Apartamento
+Quitinete;Centro;1;0;0;25;800.0;200.0;25.0;1025.0;41.0;Centro;Apartamento
+Quitinete;Estácio;0;0;0;15;700.0;0.0;0.0;700.0;46.67;Centro;Apartamento
+Quitinete;Centro;1;0;0;42;850.0;543.0;26.0;1419.0;33.79;Centro;Apartamento
+Quitinete;Centro;0;0;0;32;600.0;401.0;25.0;1026.0;32.06;Centro;Apartamento
+Quitinete;Centro;1;0;0;18;950.0;397.0;24.0;1371.0;76.17;Centro;Apartamento
+Quitinete;Centro;1;0;0;25;1750.0;0.0;0.0;1750.0;70.0;Centro;Apartamento
+Quitinete;Glória;1;0;0;35;1100.0;495.0;0.0;1595.0;45.57;Centro;Apartamento
+Quitinete;Estácio;1;0;0;18;600.0;150.0;25.0;775.0;43.06;Centro;Apartamento
+Quitinete;Centro;1;0;0;40;1000.0;275.0;20.0;1295.0;32.38;Centro;Apartamento
+Quitinete;Centro;1;0;0;23;1290.0;326.0;136.0;1752.0;76.17;Centro;Apartamento
+Quitinete;Centro;1;0;0;30;800.0;400.0;23.0;1223.0;40.77;Centro;Apartamento
+Quitinete;Centro;1;0;0;27;800.0;450.0;15.0;1265.0;46.85;Centro;Apartamento
+Quitinete;Fátima;1;0;0;35;900.0;310.0;25.0;1235.0;35.29;Centro;Apartamento
+Quitinete;Centro;1;0;0;21;800.0;306.0;0.0;1106.0;52.67;Centro;Apartamento
+Quitinete;Santa Teresa;1;0;0;30;500.0;0.0;31.0;531.0;17.7;Centro;Apartamento
+Quitinete;Glória;1;0;0;26;900.0;402.0;0.0;1302.0;50.08;Centro;Apartamento
+Quitinete;Centro;0;0;0;20;700.0;250.0;15.0;965.0;48.25;Centro;Apartamento
+Quitinete;Centro;1;0;0;31;1100.0;480.0;0.0;1580.0;50.97;Centro;Apartamento
+Quitinete;Centro;1;0;0;30;1100.0;440.0;24.0;1564.0;52.13;Centro;Apartamento
+Quitinete;Glória;1;0;0;32;1200.0;680.0;55.0;1935.0;60.47;Centro;Apartamento
+Quitinete;Centro;1;0;0;30;750.0;350.0;0.0;1100.0;36.67;Centro;Apartamento
+Quitinete;Centro;0;0;0;25;1000.0;390.0;0.0;1390.0;55.6;Centro;Apartamento
+Quitinete;Centro;1;0;0;28;1700.0;320.0;202.0;2222.0;79.36;Centro;Apartamento
+Quitinete;Centro;1;0;0;23;650.0;439.0;25.0;1114.0;48.43;Centro;Apartamento
+Quitinete;Centro;1;0;0;28;900.0;172.0;24.0;1096.0;39.14;Centro;Apartamento
+Quitinete;Centro;0;0;0;23;1000.0;242.0;20.0;1262.0;54.87;Centro;Apartamento
+Quitinete;Centro;0;0;0;30;800.0;505.0;0.0;1305.0;43.5;Centro;Apartamento
+Quitinete;Centro;1;0;0;25;800.0;350.0;20.0;1170.0;46.8;Centro;Apartamento
+Quitinete;Centro;1;0;1;24;1500.0;500.0;18.0;2018.0;84.08;Centro;Apartamento
+Quitinete;Centro;1;0;0;30;700.0;450.0;25.0;1175.0;39.17;Centro;Apartamento
+Quitinete;Centro;1;0;0;32;1100.0;400.0;22.0;1522.0;47.56;Centro;Apartamento
+Quitinete;Centro;1;0;0;20;850.0;390.0;24.0;1264.0;63.2;Centro;Apartamento
+Quitinete;Centro;1;0;0;28;780.0;420.0;24.0;1224.0;43.71;Centro;Apartamento
+Quitinete;Centro;1;0;0;25;780.0;350.0;20.0;1150.0;46.0;Centro;Apartamento
+Quitinete;Centro;1;0;0;30;900.0;435.0;80.0;1415.0;47.17;Centro;Apartamento
+Quitinete;Centro;1;0;0;35;900.0;400.0;170.0;1470.0;42.0;Centro;Apartamento
+Quitinete;Centro;0;0;0;29;600.0;485.0;25.0;1110.0;38.28;Centro;Apartamento
+Quitinete;Centro;1;0;0;22;800.0;450.0;254.0;1504.0;68.36;Centro;Apartamento
+Quitinete;Centro;1;0;0;30;800.0;250.0;25.0;1075.0;35.83;Centro;Apartamento
+Quitinete;Centro;1;0;0;25;800.0;350.0;10.0;1160.0;46.4;Centro;Apartamento
+Quitinete;Lapa;1;0;0;26;850.0;366.0;25.0;1241.0;47.73;Centro;Apartamento
+Quitinete;Glória;1;0;0;29;900.0;335.0;24.0;1259.0;43.41;Centro;Apartamento
+Quitinete;Glória;1;0;0;30;1000.0;357.0;0.0;1357.0;45.23;Centro;Apartamento
+Quitinete;Centro;1;0;0;35;850.0;480.0;9.0;1339.0;38.26;Centro;Apartamento
+Quitinete;Glória;1;0;0;25;1700.0;380.0;20.0;2100.0;84.0;Centro;Apartamento
+Quitinete;Glória;0;0;0;26;800.0;325.0;290.0;1415.0;54.42;Centro;Apartamento
+Quitinete;Centro;0;0;0;25;700.0;332.0;20.0;1052.0;42.08;Centro;Apartamento
+Quitinete;Centro;1;0;0;40;800.0;385.0;84.0;1269.0;31.72;Centro;Apartamento
+Quitinete;Lapa;1;0;0;22;950.0;400.0;20.0;1370.0;62.27;Centro;Apartamento
+Quitinete;Centro;1;0;0;20;750.0;245.0;0.0;995.0;49.75;Centro;Apartamento
+Quitinete;Centro;1;0;0;30;700.0;480.0;80.0;1260.0;42.0;Centro;Apartamento
+Quitinete;Centro;1;0;0;28;600.0;369.0;0.0;969.0;34.61;Centro;Apartamento
+Quitinete;Centro;1;0;0;46;800.0;350.0;0.0;1150.0;25.0;Centro;Apartamento
+Quitinete;Centro;1;0;0;29;1200.0;325.0;0.0;1525.0;52.59;Centro;Apartamento
+Quitinete;Centro;1;0;0;22;900.0;350.0;24.0;1274.0;57.91;Centro;Apartamento
+Quitinete;Centro;0;0;0;40;1200.0;474.0;0.0;1674.0;41.85;Centro;Apartamento
+Quitinete;Centro;1;0;0;26;900.0;350.0;19.0;1269.0;48.81;Centro;Apartamento
+Quitinete;Glória;1;0;0;26;1000.0;360.0;0.0;1360.0;52.31;Centro;Apartamento
+Quitinete;Centro;0;0;0;20;700.0;349.0;25.0;1074.0;53.7;Centro;Apartamento
+Quitinete;Centro;0;0;0;26;700.0;730.0;120.0;1550.0;59.62;Centro;Apartamento
+Quitinete;Centro;1;0;0;30;400.0;615.0;25.0;1040.0;34.67;Centro;Apartamento
+Quitinete;Centro;1;0;0;25;800.0;330.0;25.0;1155.0;46.2;Centro;Apartamento
+Quitinete;Centro;1;0;0;31;750.0;350.0;24.0;1124.0;36.26;Centro;Apartamento
+Quitinete;Centro;1;0;0;40;1800.0;384.0;202.0;2386.0;59.65;Centro;Apartamento
+Quitinete;Centro;1;0;0;20;1000.0;286.0;19.0;1305.0;65.25;Centro;Apartamento
+Quitinete;Centro;1;0;0;28;1200.0;570.0;0.0;1770.0;63.21;Centro;Apartamento
+Quitinete;Glória;1;0;0;29;600.0;335.0;25.0;960.0;33.1;Centro;Apartamento
+Quitinete;Glória;0;0;0;36;1000.0;450.0;29.0;1479.0;41.08;Centro;Apartamento
+Quitinete;Glória;1;0;0;32;920.0;480.0;38.0;1438.0;44.94;Centro;Apartamento
+Quitinete;Centro;1;0;0;20;850.0;231.0;198.0;1279.0;63.95;Centro;Apartamento
+Quitinete;Glória;1;0;1;55;2200.0;0.0;0.0;2200.0;40.0;Centro;Apartamento
+Quitinete;São Cristóvão;1;0;0;25;530.0;120.0;25.0;675.0;27.0;Centro;Apartamento
+Quitinete;Centro;1;0;1;28;1000.0;471.0;225.0;1696.0;60.57;Centro;Apartamento
+Quitinete;Centro;1;0;0;20;700.0;208.0;25.0;933.0;46.65;Centro;Apartamento
+Quitinete;Centro;1;0;0;29;700.0;269.0;24.0;993.0;34.24;Centro;Apartamento
+Quitinete;Centro;0;0;0;34;930.0;347.0;0.0;1277.0;37.56;Centro;Apartamento
+Quitinete;Centro;1;0;0;34;800.0;330.0;0.0;1130.0;33.24;Centro;Apartamento
+Quitinete;Centro;1;0;1;24;1400.0;300.0;20.0;1720.0;71.67;Centro;Apartamento
+Quitinete;Centro;1;0;0;25;900.0;280.0;26.0;1206.0;48.24;Centro;Apartamento
+Quitinete;Centro;1;0;0;15;700.0;354.0;86.0;1140.0;76.0;Centro;Apartamento
+Quitinete;Centro;1;0;0;38;1300.0;492.0;47.0;1839.0;48.39;Centro;Apartamento
+Quitinete;Centro;1;0;0;25;890.0;368.0;80.0;1338.0;53.52;Centro;Apartamento
+Quitinete;Centro;1;0;0;22;700.0;295.0;19.0;1014.0;46.09;Centro;Apartamento
+Quitinete;Centro;0;0;0;28;800.0;285.0;20.0;1105.0;39.46;Centro;Apartamento
+Quitinete;Santa Teresa;1;0;0;25;900.0;400.0;15.0;1315.0;52.6;Centro;Apartamento
+Quitinete;Glória;1;0;0;25;750.0;316.0;57.0;1123.0;44.92;Centro;Apartamento
+Quitinete;Centro;1;0;0;24;1050.0;270.0;22.0;1342.0;55.92;Centro;Apartamento
+Quitinete;Centro;1;0;0;28;850.0;139.0;25.0;1014.0;36.21;Centro;Apartamento
+Quitinete;Fátima;0;0;0;38;1290.0;300.0;0.0;1590.0;41.84;Centro;Apartamento
+Quitinete;Centro;1;0;0;35;1400.0;365.0;182.0;1947.0;55.63;Centro;Apartamento
+Quitinete;Centro;0;0;0;28;1000.0;400.0;26.0;1426.0;50.93;Centro;Apartamento
+Quitinete;Centro;1;0;0;36;1000.0;320.0;0.0;1320.0;36.67;Centro;Apartamento
+Quitinete;Centro;0;0;0;22;700.0;194.0;20.0;914.0;41.55;Centro;Apartamento
+Quitinete;Centro;1;0;0;25;900.0;340.0;15.0;1255.0;50.2;Centro;Apartamento
+Quitinete;Glória;1;0;0;20;1000.0;480.0;27.0;1507.0;75.35;Centro;Apartamento
+Quitinete;Centro;1;0;0;28;950.0;350.0;0.0;1300.0;46.43;Centro;Apartamento
+Quitinete;Lapa;0;0;0;28;900.0;400.0;20.0;1320.0;47.14;Centro;Apartamento
+Quitinete;Glória;1;0;0;50;800.0;495.0;0.0;1295.0;25.9;Centro;Apartamento
+Quitinete;São Cristóvão;1;0;0;40;850.0;0.0;0.0;850.0;21.25;Centro;Apartamento
+Quitinete;Centro;1;0;0;28;900.0;360.0;20.0;1280.0;45.71;Centro;Apartamento
+Quitinete;Centro;0;0;0;40;1200.0;500.0;96.0;1796.0;44.9;Centro;Apartamento
+Quitinete;Glória;0;0;0;30;1000.0;350.0;0.0;1350.0;45.0;Centro;Apartamento
+Quitinete;Centro;1;0;0;30;1000.0;235.0;70.0;1305.0;43.5;Centro;Apartamento
+Quitinete;Centro;1;0;0;27;600.0;658.0;0.0;1258.0;46.59;Centro;Apartamento
+Quitinete;Centro;1;0;0;34;750.0;470.0;0.0;1220.0;35.88;Centro;Apartamento
+Quitinete;Centro;0;0;0;30;1100.0;396.0;25.0;1521.0;50.7;Centro;Apartamento
+Quitinete;Centro;1;0;0;19;600.0;308.0;25.0;933.0;49.11;Centro;Apartamento
+Quitinete;Centro;1;0;0;34;750.0;420.0;21.0;1191.0;35.03;Centro;Apartamento
+Quitinete;Saúde;1;0;0;23;600.0;445.0;0.0;1045.0;45.43;Centro;Apartamento
+Quitinete;Centro;1;0;0;27;650.0;203.0;20.0;873.0;32.33;Centro;Apartamento
+Quitinete;Centro;1;0;0;30;800.0;350.0;0.0;1150.0;38.33;Centro;Apartamento
+Quitinete;Glória;1;0;0;25;1100.0;394.0;29.0;1523.0;60.92;Centro;Apartamento
+Quitinete;Glória;1;0;0;20;800.0;290.0;0.0;1090.0;54.5;Centro;Apartamento
+Quitinete;Centro;1;0;0;32;850.0;435.0;21.0;1306.0;40.81;Centro;Apartamento
+Quitinete;Centro;1;0;0;28;850.0;428.0;21.0;1299.0;46.39;Centro;Apartamento
+Quitinete;Centro;0;0;0;19;500.0;520.0;25.0;1045.0;55.0;Centro;Apartamento
+Quitinete;São Cristóvão;0;0;0;30;1200.0;150.0;12.0;1362.0;45.4;Centro;Apartamento
+Quitinete;Lapa;0;0;0;18;700.0;327.0;15.0;1042.0;57.89;Centro;Apartamento
+Quitinete;Glória;1;0;0;21;1100.0;338.0;15.0;1453.0;69.19;Centro;Apartamento
+Quitinete;Centro;1;0;0;30;750.0;400.0;25.0;1175.0;39.17;Centro;Apartamento
+Quitinete;Centro;1;0;0;30;900.0;500.0;115.0;1515.0;50.5;Centro;Apartamento
+Quitinete;Santa Teresa;1;0;0;16;650.0;380.0;12.0;1042.0;65.12;Centro;Apartamento
+Quitinete;Centro;1;0;0;31;850.0;362.0;25.0;1237.0;39.9;Centro;Apartamento
+Quitinete;Santa Teresa;1;0;0;30;1000.0;425.0;0.0;1425.0;47.5;Centro;Apartamento
+Quitinete;Santa Teresa;1;0;0;20;600.0;0.0;0.0;600.0;30.0;Centro;Apartamento
+Quitinete;Glória;1;0;0;21;1100.0;303.0;29.0;1432.0;68.19;Centro;Apartamento
+Quitinete;Centro;1;0;0;20;900.0;217.0;21.0;1138.0;56.9;Centro;Apartamento
+Quitinete;Fátima;1;0;0;25;650.0;370.0;24.0;1044.0;41.76;Centro;Apartamento
+Quitinete;Centro;1;0;0;30;1100.0;235.0;70.0;1405.0;46.83;Centro;Apartamento
+Quitinete;Centro;1;0;0;20;700.0;312.0;8.0;1020.0;51.0;Centro;Apartamento
+Quitinete;Glória;1;0;0;30;800.0;495.0;0.0;1295.0;43.17;Centro;Apartamento
+Quitinete;Centro;1;0;0;34;900.0;330.0;0.0;1230.0;36.18;Centro;Apartamento
+Quitinete;Centro;1;0;0;42;650.0;460.0;0.0;1110.0;26.43;Centro;Apartamento
+Quitinete;Lapa;0;0;0;25;800.0;350.0;0.0;1150.0;46.0;Centro;Apartamento
+Quitinete;Centro;1;0;0;32;800.0;278.0;20.0;1098.0;34.31;Centro;Apartamento
+Quitinete;Centro;1;0;0;34;800.0;400.0;130.0;1330.0;39.12;Centro;Apartamento
+Quitinete;Centro;1;0;0;50;1000.0;400.0;50.0;1450.0;29.0;Centro;Apartamento
+Quitinete;Centro;1;0;0;32;700.0;300.0;21.0;1021.0;31.91;Centro;Apartamento
+Quitinete;Centro;1;0;0;40;1100.0;300.0;0.0;1400.0;35.0;Centro;Apartamento
+Quitinete;Santa Teresa;1;0;0;30;1000.0;200.0;0.0;1200.0;40.0;Centro;Apartamento
+Quitinete;Glória;1;0;0;32;1250.0;320.0;0.0;1570.0;49.06;Centro;Apartamento
+Quitinete;Glória;1;0;0;10;400.0;107.0;10.0;517.0;51.7;Centro;Apartamento
+Quitinete;Centro;1;0;0;24;1100.0;323.0;0.0;1423.0;59.29;Centro;Apartamento
+Quitinete;Centro;0;0;0;27;800.0;350.0;25.0;1175.0;43.52;Centro;Apartamento
